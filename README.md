@@ -1,2 +1,2 @@
-# My-CP-Submissions
-All my Competetive Programming submissions
+## MY Competitive Programming Codes
+### Im trying hard and practice more :grinning::v:
